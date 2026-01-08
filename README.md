@@ -1,2 +1,2 @@
-# Java8Streams
-Java8Streams Feature
+# Java_Base_Template
+JavaBaseTemplate Feature
